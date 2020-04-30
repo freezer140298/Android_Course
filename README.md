@@ -3,6 +3,7 @@ This repository is used to upload exercises from Android Course - HCMUS-Fetel
   
   
 1st Week : Exercises from excersim.io  
+2nd Week : Android App UI (Demo: https://youtu.be/XU89dajQFCM)
 
 Members of group:  
   

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Android_Course_Week_2</string>
+    <string name="skip_for_now">Skip for now</string>
+    <string name="let_s_start">Let\'s Start</string>
+    <string name="tech_market">TECH MARKET</string>
+    <string name="latech">LATECH</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="connexion">Connexion</string>
+    <string name="connect_with_google">Connect with Google</string>
+    <string name="connect_with_facebook">Connect with Facebook</string>
+    <string name="login_string">Already have a Account? <b>Login</b></string>
+    <string name="signup_string">Don\'t have an Account? <b>Sign Up</b></string>
+    <string name="full_name">Full name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="validate">Validate</string>
+</resources>
