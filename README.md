@@ -4,7 +4,7 @@ This repository is used to upload exercises of Android Course - Fetel-HCMUS
   
 1st Week : Exercises from excersim.io  
 2nd Week : Android App UI (Demo: https://youtu.be/XU89dajQFCM)
-3nd Week : Android Touch Events & RecyclerView (Demo: https://youtu.be/PLjVmOk74OY)
+3rd Week : Android Touch Events & RecyclerView (Demo: https://youtu.be/PLjVmOk74OY)
 
 Members of group 4:  
   
