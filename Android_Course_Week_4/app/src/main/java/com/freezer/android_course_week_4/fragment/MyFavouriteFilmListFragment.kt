@@ -19,6 +19,7 @@ import com.freezer.android_course_week_4.film.Film
 import com.freezer.android_course_week_4.FilmDetailActivity
 import com.freezer.android_course_week_4.film.FilmGridAdapter
 import com.freezer.android_course_week_4.film.FilmListAdapter
+import com.freezer.android_course_week_4.film.FilmListener
 import kotlinx.android.synthetic.main.fragment_film_list.*
 
 class MyFavouriteFilmListFragment : Fragment() {

@@ -11,7 +11,6 @@ import androidx.fragment.app.FragmentActivity
 import androidx.fragment.app.FragmentManager
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.freezer.android_course_week_4.FilmListener
 import com.freezer.android_course_week_4.MainActivity
 import com.freezer.android_course_week_4.R
 import com.freezer.android_course_week_4.dialog_fragment.AddFilmToMyFavouriteDialogFragment
