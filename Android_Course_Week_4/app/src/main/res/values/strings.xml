@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Android_Course_Week_4</string>
+    <string name="grid">Grid</string>
+    <string name="film_overview_text_view_detail_label">Overview:</string>
+    <string name="film_overview_detail">Film overview detail</string>
+    <string name="rating">Rating :</string>
+    <string name="title_activity_film_detail">FilmDetailActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="top_rating">Top Rating</string>
+    <string name="my_favourite">My Favourite</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_to_favourite" />
+    <string name="overview">Overview</string>
+    <string name="release_date">Release Date :</string>
+    <string name="language">Language :</string>
+    <string name="popularity">popularity</string>
+    <string name="vote_count">vote count</string>
+    <string name="original_title">Original Title : </string>
+
+    <!-- Add to My Favourite Dialog Strings -->
+    <string name="dialog_add_to_favourite">Add to My Favourite ? </string>
+    <string name="dialog_remove_from_favourite">Remove from My Favourite</string>
+    <string name="dialog_add_to_favourite_OK">OK</string>
+    <string name="dialog_add_to_favourite_cancel">Cancel</string>
+</resources>
