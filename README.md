@@ -7,6 +7,7 @@ This repository is used to upload exercises of Android Course - Fetel-HCMUS
 3rd Week : Android Touch Events & RecyclerView (Demo: https://youtu.be/PLjVmOk74OY)  
 4th Week : Android Activity & Fragment (Demo: https://youtu.be/t2dNUnqHfIs)  
 5th Week : Android Data Storage (Demo: https://youtu.be/iR4BsmAkG5A)  
+6th Week : Android Camera & Network (Demo: https://youtu.be/8wtT5obpbZw)  
 
 Members of group 4:  
   

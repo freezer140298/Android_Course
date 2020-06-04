@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Android_Course_week_6</string>
+    <string name="grid">Grid</string>
+    <string name="film_overview_text_view_detail_label">Overview:</string>
+    <string name="film_overview_detail">Film overview detail</string>
+    <string name="rating">Rating :</string>
+    <string name="title_activity_film_detail">FilmDetailActivity</string>
+
+    <!-- Fragment title strings -->
+    <string name="now_playing">Now Playing</string>
+    <string name="top_rating">Top Rating</string>
+    <string name="my_favourite">My Favourite</string>
+
+    <string name="add_to_favourite" />
+    <string name="overview">Overview</string>
+    <string name="release_date">Release Date :</string>
+    <string name="language">Language :</string>
+    <string name="popularity">popularity</string>
+    <string name="vote_count">vote count</string>
+    <string name="original_title">Original Title : </string>
+
+    <!-- Add to My Favourite Dialog Strings -->
+    <string name="dialog_add_to_favourite">Add to My Favourite ? </string>
+    <string name="dialog_remove_from_favourite">Remove from My Favourite</string>
+    <string name="dialog_add_to_favourite_OK">OK</string>
+    <string name="dialog_add_to_favourite_cancel">Cancel</string>
+
+    <!-- Shared preferences -->
+    <string name="shared_preference_current_fragment">current_fragment</string>
+</resources>
